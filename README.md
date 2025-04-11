@@ -8,3 +8,5 @@ So, we plot eigenvalues of a matrix A with entries A(i,j)=A(j,i) distributed as 
 We also show with simulations that this has similar spectrum to a matrix B = DGD, where D is a diagonal matrix with D(i,i) = sqrt{W_i}, and G(i,j)=G(j,i) is normally distributed with mean 0 and variance 1/dist(i,j)^a. 
 
 Later on, we try estimating the tail of this spectral distribution, which theoretically has a power law decay. 
+
+Update 11 April 2025: Added a file for Laplacian simulations
